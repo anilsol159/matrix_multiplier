@@ -1,2 +1,16 @@
-# matrix_multiplier
-I have developed a script in python which takes two 3 by 3 matrix as input and returns its multiplication product as output. The script mainly focuses on python lists.
+# Matrix Multiplication Python Script 🧮  
+
+## 📌 Overview  
+This Python script performs matrix multiplication on two 3×3 matrices entered by the user. It prompts the user for input, multiplies the matrices, and displays the resulting matrix.
+
+## 🚀 Features  
+- Accepts two 3×3 matrices from user input  
+- Multiplies the matrices using the standard matrix multiplication algorithm  
+- Displays the final result in a 3×3 format  
+
+## 🛠 Usage  
+
+1. Clone this repository:  
+   ```bash
+   git clone <repo-url>
+   cd <repo-folder>
